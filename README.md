@@ -1,4 +1,4 @@
-<img width="450" src="https://github-readme-stats.vercel.app/api?username=andersonssh&show_icons=true&theme=radical&include_all_commits=true&count_private=true" align="right"/>
+<img width="375" src="https://github-readme-stats.vercel.app/api?username=andersonssh&show_icons=true&theme=radical&include_all_commits=true&count_private=true" align="right"/>
 <p align="left">😎 I'm a backend engineer and I love working in a team of people who love what they do. I like challenges that involve a high level of complexity!</p>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
